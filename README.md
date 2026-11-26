@@ -8,11 +8,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,python,ts,react,docker)](https://skillicons.dev)
 
-## 🏆 実績
+## 🌸 略歴
 
-- 福岡学生ゲームジャム 優勝（それいけ！フクオカくん／もちもちMAKER／ぼくのにっき）
-- UAA GAME JAM 2023 優勝（狼少年の話）
-- unityroom でゲーム作品 13 件を公開中
+- **2020**　プログラミングを始める（大学1年）
+- **2021**　Unity / C# でゲーム開発を始める
+- **2024**　修士課程に進学して、研究で Python を使い始める
+- **2026**　エンジニアとして就職。TypeScript / React で Web アプリも作り始める
+
+🏆 ゲームジャム優勝：UAA GAME JAM 2023、福岡学生ゲームジャム（2024・2025）／ unityroom で作品 13 件を公開中
 
 ## 🔗 Links
 
