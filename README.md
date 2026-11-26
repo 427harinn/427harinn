@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haruka%20Karakawa&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9AD1F5,100:1B6AC9&height=180&section=header&text=Haruka%20Karakawa&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 # Haruka Karakawa
 
@@ -28,4 +28,4 @@
 - [LifeHub](https://github.com/427harinn/LifeHub)：家計簿とカレンダーの生活管理アプリ
 - [OG☆3](https://github.com/ksu-gamelab/OG-3)：長期開発のノベルゲーム。体験版を unityroom・ふりーむで公開しています
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9AD1F5,100:1B6AC9&height=120&section=footer)
