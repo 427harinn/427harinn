@@ -2,6 +2,10 @@
 
 エンジニアです。仕事では業務管理の Web システムや 3D アバター関連の開発をしています。個人では Unity のゲームや、暮らしを便利にする Web アプリを作っています。
 
+## 技術
+
+Unity / C#、Python、TypeScript / React
+
 ## Links
 
 - Portfolio：https://427harinn.github.io/
