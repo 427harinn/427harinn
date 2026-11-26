@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haruka%20Karakawa&fontSize=42&fontColor=ffffff&animation=fadeIn)
+
 # Haruka Karakawa
 
 👋 エンジニアです。仕事では業務管理の Web システムや 3D アバター関連の開発をしています。個人では Unity のゲームや、暮らしを便利にする Web アプリを作っています。
@@ -6,10 +8,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,python,ts,react,docker)](https://skillicons.dev)
 
-## 📊 GitHub の様子
+## 🏆 実績
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=427harinn&show_icons=true&count_private=true&hide_border=true&title_color=4a90d9&icon_color=4a90d9&text_color=44546a&bg_color=f2f8ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=427harinn&layout=compact&hide_border=true&title_color=4a90d9&text_color=44546a&bg_color=f2f8ff)
+- 福岡学生ゲームジャム 優勝（それいけ！フクオカくん／もちもちMAKER／ぼくのにっき）
+- UAA GAME JAM 2023 優勝（狼少年の話）
+- unityroom でゲーム作品 13 件を公開中
 
 ## 🔗 Links
 
@@ -24,3 +27,5 @@
 - [md-slide-tool](https://github.com/427harinn/md-slide-tool)：Markdown と PowerPoint を双方向に編集するツール
 - [LifeHub](https://github.com/427harinn/LifeHub)：家計簿とカレンダーの生活管理アプリ
 - [OG☆3](https://github.com/ksu-gamelab/OG-3)：長期開発のノベルゲーム。体験版を unityroom・ふりーむで公開しています
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
